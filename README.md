@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto tranca eletrônica </h1>
 
 <p align="center">
-Aqui temos o código de uma tranca eletrônica feita em arduino
+Aqui temos o código de uma tranca eletrônica feita em arduino. Lembrando que este é um trabalho realizado em grupo, por isso outros colegas meus podem ter repositórios semelhantes.
 </p>
 
 <p align="center">
